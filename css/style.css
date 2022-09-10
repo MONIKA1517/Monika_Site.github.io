@@ -16,7 +16,7 @@
 }
 a{
   color: #FFFFFF;
-  font-family:cursive;
+  font-family:'montserret' sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -24,6 +24,7 @@ a:hover {
   color: #EAF6F6;
 }
 .copyright{
+  font-family: 'montserret' sans-serif;
   color: #FFFFFF;
   font-size: 0.50 rem;
   padding:10px 0;
@@ -73,14 +74,14 @@ hr{
   margin:40px auto 60px auto;
 }*/
 .web{
-  font-style: italic;
+  font-style: normal;
   decoration: underline;
 }
 body{
   background-color: #F5EDDC;
   margin: 0;
   text-align : center;
-  font-family: 'sacramento', cursive;
+  font-family:'montserret' sans-serif;
   color: #FA9494;
 }
 
@@ -119,7 +120,7 @@ margin-right: 30px;
 }
 
 .buttonClass {
-  font-family: arial;
+  font-family: 'montserret' sans-serif;
   color: #FFFFFF !important;
   font-size: 17px;
   text-shadow: 1px 1px 0px #666666;
